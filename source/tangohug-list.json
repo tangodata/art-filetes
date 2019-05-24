@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "Name": "Argentine Tango Radio",
+      "Id": "1",
+      "Location": "Budapest, Hungary",
+      "Logo": "argentinetangoradio.png",
+      "Description": "Best of danceable Argentine tango music from the Golden Age and on.",
+      "Rating": "3",
+      "Mobile": "0",
+      "Stream": "http://streaming.argentinetangoradio.com:9076/;",
+      "Link": "http://www.argentinetangoradio.com"
+    },
+    {
+      "Name": "2x4 Radio Tango",
+      "Id": "4",
+      "Location": "Buenos Aires, Argentina",
+      "Logo": "2x4radiotango.png",
+      "Description": "La 2x4 is part of the Public Media System of Buenos Aires. It is a great Tango Radio that broadcasts around the world 24 hours a day.",
+      "Rating": "2",
+      "Mobile": "1",
+      "Stream": "http://radios.argentina.fm:9270/stream",
+      "Link": "http://www.buenosaires.gob.ar/la2x4"
+    },
+    {
+      "Name": "ReporTango Radio ",
+      "Id": "9",
+      "Location": "New York, USA",
+      "Logo": "reportango.png",
+      "Description": "Our radio brings you the best of golden age and modern tango music, along with interviews to some of today's most renowned figures in the tango scene.",
+      "Rating": "1",
+      "Mobile": "1",
+      "Stream": "http://206.190.130.182:8088/;",
+      "Link": "http://www.reportango.net"
+    },
+    {
+      "Name": "Tango Pasion Radio",
+      "Id": "10",
+      "Location": "Reggio nell Emilia, Italy",
+      "Logo": "tangopasionradio.png",
+      "Description": "La Radio Tango Italiana. Trasmette 24 ore al giorno, 365 giorni all'anno.",
+      "Rating": "1",
+      "Mobile": "1",
+      "Stream": "http://sc.radiofficine.it:8072/radio?1493914129822",
+      "Link": "http://www.tangopasionradio.com"
+    },
+    {
+      "Name": "Tango Nuevo",
+      "Id": "15",
+      "Location": "Germany",
+      "Logo": "tangonuevoradio.png",
+      "Description": "Crossover tango-contemporary, classical, avant-garde, experimental, electronic, tango cortinas and non tango.",
+      "Rating": "0",
+      "Mobile": "0",
+      "Stream": "http://stream3.laut.fm/tango-nuevo",
+      "Link": "http://tangonuevo.radio.net"
+    },
+    {
+      "Name": "Radio Tango Uno",
+      "Id": "16",
+      "Location": "Warsaw, Poland",
+      "Logo": "tangouno.png",
+      "Description": "Our pasion for Argentinian tango has been a starter to create the first internet radio website in Poland playing this music in many European countries.",
+      "Rating": "3",
+      "Mobile": "0",
+      "Stream": "http://91.232.4.33:7244/stream",
+      "Link": "http://radiotango.uno"
+    },
+    {
+      "Name": "Radio de Tango",
+      "Id": "18",
+      "Location": "Buenos Aires, Argentina",
+      "Logo": "radiodetango.png",
+      "Description": "Broadcasting online 24 hours per day, 365 days a year, all over the world.",
+      "Rating": "1",
+      "Mobile": "0",
+      "Stream": "http://fine.entic.net:8000/tango",
+      "Link": "http://www.radiodetango.com.ar"
+    },
+    {
+      "Name": "Calm Radio de Tango",
+      "Id": "19",
+      "Location": "Canada",
+      "Logo": "calmtangoradio.png",
+      "Description": "",
+      "Rating": "1",
+      "Mobile": "0",
+      "Stream": "http://184.173.142.117:9928/stream",
+      "Link": "http://calmtango.radio.net"
+    },
+    {
+      "Name": "Radio Tango Rosario",
+      "Id": "20",
+      "Location": "Rosario, Santa Fe, Argentina",
+      "Logo": "radiotangorosario.png",
+      "Description": "Tango, a genuine symbol of argentinity, identifies us as a people throughout the world. It is much more than a regional or ethnic cultural fact.",
+      "Rating": "1",
+      "Mobile": "1",
+      "Stream": "http://www.radiotangorosario.com.ar:8000/radio",
+      "Link": "http://www.radiotangorosario.com.ar"
+    },
+    {
+      "Name": "Tango Para Bailar",
+      "Id": "22",
+      "Location": "Germany",
+      "Logo": "tangoparabailar.png",
+      "Description": "Tangoparabailar stands for tangos with a focus on danceability. Vamos a bailar!",
+      "Rating": "3",
+      "Mobile": "0",
+      "Stream": "http://tangoparabailar.stream.laut.fm/tangoparabailar",
+      "Link": "http://laut.fm/tangoparabailar"
+    },
+    {
+      "Name": "ViceVersa Radio",
+      "Id": "111",
+      "Location": "",
+      "Logo": "viceversaradio.png",
+      "Description": "Our online tango radio aims to promote golden age tango music in high quality. Tango radio shows, tango lyrics, tango history, tango music, interviews and more!",
+      "Rating": "2",
+      "Mobile": "1",
+      "Stream": "http://s9.myradiostream.com:4396/;stream/1",
+      "Link": "http://www.vvradio.org"
+    },
+    {
+      "Name": "wTango",
+      "Id": "110",
+      "Location": "",
+      "Logo": "wtango.png",
+      "Description": "",
+      "Rating": "1",
+      "Mobile": "1",
+      "Stream": "http://200.43.192.20:8020/;",
+      "Link": ""
+    },
+    {
+      "Name": "Tango Radio Berlin",
+      "Id": "113",
+      "Location": "Berlin, Germany",
+      "Logo": "tangoradioberlin.png",
+      "Description": "Argentinian Tango Music in Milonga style",
+      "Rating": "3",
+      "Mobile": "0",
+      "Stream": "http://tango.stream.laut.fm/tango",
+      "Link": ""
+    },
+    {
+      "Name": "Miled Music Tango",
+      "Id": "114",
+      "Location": "Mexic",
+      "Logo": "",
+      "Description": "",
+      "Rating": "1",
+      "Mobile": "1",
+      "Stream": "http://192.99.34.205:8240/stream",
+      "Link": "http://miledmusic.com/?album=tango"
+    },
+    {
+      "Name": "Radio CAFF",
+      "Id": "116",
+      "Location": "Buenos Aires, Argentina",
+      "Logo": "",
+      "Description": "La radio del Club Atletico Fernandez Fierro",
+      "Rating": "1",
+      "Mobile": "0",
+      "Stream": "http://majestic.wavestreamer.com:3411/;stream.mp3",
+      "Link": "http://radiocaff.com.ar/"
+    },
+    {
+      "Name": "Radio Caprice Tango",
+      "Id": "117",
+      "Location": "Russia",
+      "Logo": "",
+      "Description": "",
+      "Rating": "0",
+      "Mobile": "0",
+      "Stream": "http://79.120.39.202:8000/tango",
+      "Link": "http://radcap.ru/tango.html"
+    },
+    {
+      "Name": "Radio Art",
+      "Id": "119",
+      "Location": "",
+      "Logo": "",
+      "Description": "",
+      "Rating": "1",
+      "Mobile": "0",
+      "Stream": "http://live.radioart.com/fTango.mp3?dlid=",
+      "Link": "https://www.radioart.com/"
+    }
+  ]
+}

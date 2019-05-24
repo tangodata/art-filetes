@@ -1,0 +1,52 @@
+sites:
+  - name: Argentine Tango Radio
+    url: https://www.argentinetangoradio.com
+
+  - name: Tango Pasion Radio
+    url: https://www.tangopasionradio.com
+
+  - name: ViceVersa Radio
+    url: https://vvradio.com
+
+  - name: ReporTango Radio
+    url: https://www.reportango.net/RT/Radio.html
+
+    name: Tangueraradio.com
+    url: https://tangueraradio.com
+
+    name: Tangocopenhagen Radio
+    url: https://tangocopenhagen.radio
+    info: Piotr Hajkowski
+
+    name: Radio del Tango Podcasts
+    url: https://radiodeltango.wordpress.com
+    info: ALberto Paz, ended
+
+    name: Radio Tango Uno
+    url: http://radiotango.uno
+    info: Poland, Dorota & Marcin
+
+    name: Radio Tango Velours
+    url: https://radio.tango-velours.fr
+
+    name: Malevos Tango Radio
+    url: http://www.malevos-tango.com/radio
+
+
+
+
+general-radios:
+# live365.com
+# https://live365.com/listen?query=tango
+# radionomy.com
+# tunein.com
+# laradiofm.eu
+# pandora.com
+#
+#
+#
+#
+# spotify
+#
+#  claimed: radiotango.club
+# tangohugs.com (pt to radios)
